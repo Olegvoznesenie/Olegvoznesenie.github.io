@@ -5835,8 +5835,7 @@
         "meta_descr": " Description Церковь \"Вознесение\", Иисус Христос, ЕХБ, Омск, Россия, Димитрова 41, W8RQ+WF, Церковь Вознесение, Старый Кировск, Кировский район, Библия",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/2432d1c0-6ed2-41c4-b00d-53f3b156f932-200x200-122x122.png"
+        "html_before": ""
       },
       "components": [
         {
