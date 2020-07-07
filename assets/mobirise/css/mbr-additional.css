@@ -710,10 +710,33 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-s3vFXHrari {
+  background: #ffffff;
+}
+.cid-s3vFXHrari .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-s3vFXHrari .mbr-figure {
+  margin: 0 auto;
+}
+.cid-s3vFXHrari figcaption {
+  position: relative;
+}
+.cid-s3vFXHrari figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s3vFXHrari .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s3e6k9t2fE {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/3y0hwgikokq-498x354.jpg");
+  background-image: url("../../../assets/images/woman-with-issue-of-blood-1200x1017.jpg");
 }
 .cid-s3e6k9t2fE H2 {
   color: #b5e6f6;
@@ -721,7 +744,7 @@ section.lazy-placeholder:after {
 .cid-s3mRMgXoDx {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #4e0f1f;
+  background-color: #480f4e;
 }
 .cid-s3mRMgXoDx .mbr-section-subtitle {
   color: #767676;
@@ -729,69 +752,14 @@ section.lazy-placeholder:after {
 .cid-s3mRMgXoDx H2 {
   color: #ffffff;
 }
-.cid-s3p1va80W7 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/aqo2x-g6yw-2-1280x720.jpeg");
-}
-.cid-s3p1va80W7 .mbr-section-subtitle {
-  color: #767676;
-  text-align: center;
-  font-weight: 300;
-}
-.cid-s3p1va80W7 .step {
-  width: 72px;
-  height: 72px;
-  font-size: 36px;
-  border-radius: 50%;
-  border: 2px solid #b5e6f6;
-  padding-bottom: 0;
-  color: #ffffff;
-}
-@media (min-width: 768px) {
-  .cid-s3p1va80W7 .separline .step-wrapper {
-    position: relative;
-  }
-  .cid-s3p1va80W7 .separline .step-wrapper:before,
-  .cid-s3p1va80W7 .separline .step-wrapper:after {
-    top: 38px;
-    position: absolute;
-    content: "";
-    height: 2px;
-    width: calc(50% + 15px - 36px - 8px);
-    background-color: #b5e6f6;
-  }
-  .cid-s3p1va80W7 .separline .step-wrapper:before {
-    left: -15px;
-  }
-  .cid-s3p1va80W7 .separline .step-wrapper:after {
-    left: calc(50% + 8px + 36px);
-  }
-  .cid-s3p1va80W7 .separline.last-child .step-wrapper:after,
-  .cid-s3p1va80W7 .separline:nth-child(3n) .step-wrapper:after,
-  .cid-s3p1va80W7 .separline:nth-child(3n+1) .step-wrapper:before {
-    background: none;
-  }
-}
-@media (max-width: 767px) {
-  .cid-s3p1va80W7 .card:not(.last-child) {
-    padding-bottom: 1.5rem;
-  }
-}
-.cid-s3p1va80W7 .mbr-section-title {
-  color: #b5e6f6;
-}
-.cid-s3p1va80W7 .mbr-step-title {
-  color: #ffffff;
-}
 .cid-s3p4ibEVq4 .navbar {
   padding: .5rem 0;
-  background: #4e0f1f;
+  background: #480f4e;
   transition: none;
   min-height: 77px;
 }
 .cid-s3p4ibEVq4 .navbar-dropdown.bg-color.transparent.opened {
-  background: #4e0f1f;
+  background: #480f4e;
 }
 .cid-s3p4ibEVq4 a {
   font-style: normal;
@@ -882,7 +850,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-s3p4ibEVq4 .dropdown .dropdown-menu {
-  background: #4e0f1f;
+  background: #480f4e;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1195,7 +1163,7 @@ section.lazy-placeholder:after {
 .cid-s3tbFPbkEm {
   padding-top: 15px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-s3tbFPbkEm .card-img {
   background-color: #fff;
@@ -1205,7 +1173,6 @@ section.lazy-placeholder:after {
 }
 .cid-s3tbFPbkEm .card-box {
   padding: 2rem;
-  background-color: #ffffff;
 }
 .cid-s3tbFPbkEm h4 {
   font-weight: 500;
